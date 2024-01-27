@@ -8,8 +8,8 @@ Prise en charge des directions de trafic entrantes et sortantes.
 Interface en ligne de commande simple et intuitive.
 
 ## Prérequis
-Python 3.x<br>
-Accès root ou sudo pour exécuter les commandes iptables.
+* Python 3.x<br>
+* Accès root ou sudo pour exécuter les commandes iptables.
 
 ## Installation
 Clonez le dépôt Git :
