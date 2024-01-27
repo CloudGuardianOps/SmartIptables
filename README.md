@@ -44,4 +44,4 @@ Ce projet est distribué sous la licence MIT. Voir le fichier LICENSE pour plus 
 Les contributions à ce projet sont les bienvenues. Veuillez consulter le fichier CONTRIBUTING.md pour les directives de contribution.
 
 ## Auteur
-SmartIptables
+<a href="mailto://hamza.mouadden@teluq.ca">CloudGuardianOps</a>
