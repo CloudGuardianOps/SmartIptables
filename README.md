@@ -15,7 +15,7 @@ Interface en ligne de commande simple et intuitive.
 Clonez le dépôt Git :
 
 ```bash
-git clone (SmartIptables)[https://github.com/CloudGuardianOps/SmartIptables.git]
+git clone https://github.com/CloudGuardianOps/SmartIptables.git
 ```
 Naviguez dans le dossier du projet :
 
