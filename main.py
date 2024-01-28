@@ -10,7 +10,7 @@ def main():
     elif args.operation == 'block':
         actions.block_port(args.port, args.direction)
     elif args.operation == 'start_honeypot':
-        server.start_honeypot(args.port)
+        server.start(args.port)
     elif args.operation == 'stop_honeypot':
         server.stop_honeypot()
 
