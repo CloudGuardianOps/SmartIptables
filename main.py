@@ -1,6 +1,6 @@
+from utils.argparser import parse_args
 from iptables_manager import actions
 from honeypot import server
-from utils import argparser
 
 def main():
     args = parse_args()
