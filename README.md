@@ -1,4 +1,14 @@
 # SmartIptables (Iptables Automation Tool)
+
+- [Description](#description)
+- [Fonctionnalités](#fonctionnalités)
+- [Prérequis](#prérequis)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Licence](#licence)
+- [Contribution](#contribution)
+- [Auteur](#auteur)
+
 ## Description
 Cette application est un outil d'automatisation pour gérer les règles d'iptables sur les systèmes Linux. Elle permet de définir des règles pour autoriser ou bloquer le trafic sur des ports spécifiques, avec une interface en ligne de commande pour une utilisation facile et rapide.
 
